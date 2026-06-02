@@ -1,0 +1,24 @@
+IT1170 - Data Structures and Algorithms
+Week 04 Answers
+
+Exercise 1
+
+1. Queue implementation using array:
+   The answer is in Main.java and QueueX.java
+
+2. Methods insert, remove, peekFront, isEmpty and isFull:
+   These are included in QueueX.java
+
+3. getCount() method:
+   This is included in QueueX.java
+
+4. Main method to test queue operations:
+   This is included in Main.java
+
+Exercise 2
+
+5. Modified queue to circular queue:
+   This is included in QueueX.java
+
+6. Main method to test circular queue:
+   This is included in Main.java

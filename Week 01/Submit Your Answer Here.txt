@@ -1,0 +1,71 @@
+IT1170 - Data Structures and Algorithms
+Week 01 Answers
+
+Exercise 1
+
+1. Two real life examples of algorithms:
+   - Making a cup of tea
+   - Withdrawing money from an ATM
+
+2. Sample algorithm for a navigation system:
+   1. Start
+   2. Enter current location
+   3. Enter destination
+   4. Find possible routes
+   5. Select the best route
+   6. Show directions
+   7. If user goes the wrong way, recalculate route
+   8. Stop when destination is reached
+
+3. Algorithm to find the maximum of three numbers:
+   1. Start
+   2. Input A, B, C
+   3. Set Max = A
+   4. If B > Max, set Max = B
+   5. If C > Max, set Max = C
+   6. Print Max
+   7. End
+
+4. Algorithm to find the average of N numbers:
+   1. Start
+   2. Input N
+   3. Set Sum = 0
+   4. Input numbers one by one until N numbers are entered
+   5. Add each number to Sum
+   6. Average = Sum / N
+   7. Print Average
+   8. End
+
+Exercise 2
+
+5. Pseudocode to find the maximum of three numbers:
+
+   BEGIN
+      INPUT A, B, C
+      Max = A
+      IF B > Max THEN
+         Max = B
+      ENDIF
+      IF C > Max THEN
+         Max = C
+      ENDIF
+      PRINT Max
+   END
+
+6. Pseudocode to find the average of N numbers:
+
+   BEGIN
+      INPUT N
+      Sum = 0
+      FOR i = 1 TO N
+         INPUT Number
+         Sum = Sum + Number
+      ENDFOR
+      Average = Sum / N
+      PRINT Average
+   END
+
+Exercise 3
+
+7. Java program:
+   The Java answer is in MaximumOfThree.java

@@ -1,0 +1,26 @@
+IT1170 - Data Structures and Algorithms
+Week 03 Answers
+
+Exercise 1
+
+1. Stack implementation using array:
+   The answer is in Main.java and stackx.java
+
+2. Methods push, pop, peek, isEmpty and isFull:
+   These are included in stackx.java
+
+3. display() method:
+   This is included in stackx.java
+
+4. Main method to test stack operations:
+   This is included in Main.java
+
+Exercise 2
+
+5. Program to reverse a string using stack:
+   This is included in Main.java and stackx.java
+
+Exercise 3
+
+6. Check balanced parentheses using stack:
+   This is included in Main.java and stackx.java

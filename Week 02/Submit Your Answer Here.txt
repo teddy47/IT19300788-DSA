@@ -1,0 +1,20 @@
+IT1170 - Data Structures and Algorithms
+Week 02 Answers
+
+Exercise 1
+
+1. Java program to implement Insertion Sort in ascending order:
+   The answer is in Main.java and InsertionSort.java
+
+2. Modified Insertion Sort to sort in descending order:
+   This is also included in InsertionSort.java
+
+Exercise 2
+
+3. Program to count the number of shifts:
+   This is also included in InsertionSort.java
+
+Exercise 3
+
+4. Program to simulate step by step execution of Insertion Sort:
+   I used the same simple program structure with Main.java and InsertionSort.java
