@@ -4,7 +4,7 @@
 
 | Field | Information |
 |---------|------------|
-| Student Name | Vimukthi Wanigathunga |
+| Student Name | Wanigathunga C.V |
 | Student ID | IT19300788 |
 | Module | IT1170 - Data Structures and Algorithms |
 
